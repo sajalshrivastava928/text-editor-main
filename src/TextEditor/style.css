@@ -1,0 +1,13 @@
+.head{
+    text-align:center;
+}
+.text-area{
+    height: 250px;
+    width: 87%;
+    background-color:#e9ecef;
+}
+.button{
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+
+}
